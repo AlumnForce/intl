@@ -1,5 +1,5 @@
 {
-    "name": "commerceguys/intl",
+    "name": "alumnforce/intl",
     "type": "library",
     "description": "Internationalization library powered by CLDR data.",
     "license": "MIT",
